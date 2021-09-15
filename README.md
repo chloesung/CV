@@ -6,4 +6,4 @@ You can see [PDF](https://raw.githubusercontent.com/chloesung/CV/master/Youji_s_
 
 <br>
 
-*Latex template via [Awesome CV](https://github.com/posquit0/Awesome-CV).*
+<span style="color:red">*Latex template via [Awesome CV](https://github.com/posquit0/Awesome-CV).*</span>
